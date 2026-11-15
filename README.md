@@ -3,7 +3,7 @@
 
 ### 1.1 Goal
 
-Build a **cross-platform, privacy-first, clean and modern** P2P instant messaging application. Messages and files are transmitted entirely peer-to-peer, never relayed through a central server, ensuring user data privacy.
+Build a **privacy-first, clean and modern** P2P instant messaging application. Messages and files are transmitted entirely peer-to-peer, never relayed through a central server, ensuring user data privacy.
 
 ### 1.2 Supported Platforms
 
