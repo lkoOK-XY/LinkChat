@@ -1,0 +1,36 @@
+# === OS ===
+.DS_Store
+Thumbs.db
+
+# === Logs / debug output ===
+*.log
+linkchat_debug.log
+
+# === Flutter / Dart ===
+client/.dart_tool/
+client/build/
+client/.flutter-plugins-dependencies
+client/.pub-cache/
+client/coverage/
+
+# === IDE ===
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# === Go build output ===
+signaling-server/linkchat-server
+signaling-server/linkchat-server-*
+signaling-server/dist/
+signaling-server/*.exe
+signaling-server/*.test
+
+# === Archives / packaged artifacts ===
+*.zip
+deploy/*.zip
+
+# === Local config that may hold credentials ===
+.env
+.env.*

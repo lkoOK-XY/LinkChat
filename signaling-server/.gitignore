@@ -1,0 +1,16 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+signaling-server
+
+# Test binary
+*.test
+
+# Output
+dist/
+
+# Dependency directories
+vendor/
